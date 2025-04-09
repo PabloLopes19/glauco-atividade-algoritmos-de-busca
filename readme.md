@@ -1,5 +1,7 @@
 # 🧩 Reflexão (responda em grupo ou individualmente):
 
+**Alunos:** Anna Loz, Lucas Gadonski, Matheus Lofy, Pablo Lopes, Sabine Freiman.
+
 Os dois algoritmos retornaram os mesmos resultados?
 
 **1. Qual algoritmo foi mais rápido?**
